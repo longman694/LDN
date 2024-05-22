@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&family=Kanit:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.bai-jamjuree thai-default-text {
+  font-family: "Bai Jamjuree", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.kanit-regular {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kanit-medium {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.kanit-regular-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.kanit-medium-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.view-content {
+  font-family: "Bai Jamjuree", serif;
+  font-weight: 400;
+  --bold-weight: 600;
+}
+
+.inline-title {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+}
+
+.cm-header, .callout-title-inner {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+}
+
+.callout[data-callout="cite"] {
+  background: none;
+}
+
+.callout[data-callout="cite"] > .callout-content {
+  margin: auto;
+  text-align: center;
+}
+
+.callout[data-callout="cite"] > .callout-title {
+  display: none;
+}
+
+div.navigation {
+  border-top: 1px solid #aaa;
+  padding-top: 8px;
+  display: flex;
+}
+
+.navigation > .previous {
+  border: none;
+  padding: 5px 10px;
+  flex-grow: 1;
+}
+
+.navigation > .previous::before {
+  content: "< ";
+}
+
+.navigation > .up {
+  text-align: center;
+  padding: 5px 10px;
+  flex-grow: 1;
+}
+
+.navigation > .next {
+  text-align: right;
+  border: none;
+  padding: 5px 10px;
+  flex-grow: 1;
+}
+
+.navigation > .next::after {
+  content: " >";
+}

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "97ae3903e24cedb0",
+        "id": "6bcaa125af4ff8c4",
         "type": "tabs",
         "children": [
           {
-            "id": "99d9e3d8b49b97f1",
+            "id": "143c3237b25f8bcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "review/T.Audio COL4.0-8.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "review/T.Audio COL4.0-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "review/T.Audio COL4.0-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "review/T.Audio COL4.0-8.md"
+              }
             }
           }
         ]
@@ -138,15 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99d9e3d8b49b97f1",
+  "active": "143c3237b25f8bcc",
   "lastOpenFiles": [
+    "review/Measurement Method.md",
+    "review/pic/T.Audio COL4.0/02_03.png",
+    "review/pic/T.Audio COL4.0/02_08.png",
+    "review/pic/T.Audio COL4.0/VituixCAD Directivity (ver).png",
+    "review/pic/T.Audio COL4.0/02_06.png",
     "VOL36_DEC08_Boundaries-1.pdf",
+    "review/pic/T.Audio COL4.0/02_04.png",
+    "review/pic/T.Audio COL4.0/02_07.png",
+    "review/pic/T.Audio COL4.0/02_05.png",
+    "review/T.Audio COL4.0-8.md",
+    "review/pic/T.Audio COL4.0/02_02.png",
+    "review/pic/method/02.png",
+    "review/pic/method/03.png",
+    "README.md",
+    "Standard/TIS1538-2552.pdf",
+    "review/pic/method",
+    "Sound Engineer/Bass EQ Ep 2.md",
+    "Sound Engineer/Bass EQ Ep 1.md",
+    "Standard/มอก..md",
+    "meterials/Mortar.md",
+    "meterials/Plaster of Paris.md",
+    "meterials/Rockwool.md",
+    "Noise & THD.md",
+    "How loud you listen.md",
+    "Cables & Connectors.md",
+    "AES Anthologies.md",
+    "Cable.md",
+    "Group Delay - Transients.md",
     "index.md",
+    "People.md",
+    "Objective Evaluation of Speaker.md",
     "Transient Detection with Absolute Discrete Group Delay.pdf",
     "Standard/ISO_226_2023.pdf",
     "Standard/ISO_226_2003.pdf",
-    "Standard/TIS1538-2552.pdf",
-    "Standard/มอก..md",
     "Standard/มาตรฐานการวัดลำโพง.md",
     "Dayton/TCP115-4.md",
     "Dayton/Selection.md",
@@ -154,37 +189,9 @@
     "Crossover/Type of Crossover.md",
     "Crossover/DIY Inductor results.md",
     "Crossover/Capacitor.md",
-    "Amplifiers/ZK-APTX1.md",
-    "Amplifiers/EP3 สะอาด ไม่สะอาด.md",
-    "Amplifiers/EP2 filter ไม่ filter.md",
-    "Amplifiers/EP1 ของแท้ ไม่แท้.md",
-    "Measurement/Free Field Measurement.md",
-    "Measurement/EP3 อุปกรณ์อะไรสำคัญที่สุดสำหรับนักออกแบบลำโพง.md",
-    "Measurement/EP2 อุปกรณ์อะไรสำคัญที่สุดสำหรับนักออกแบบลำโพง.md",
-    "Measurement/EP1 อุปกรณ์อะไรสำคัญที่สุดสำหรับนักออกแบบลำโพง.md",
-    "meterials/Rockwool.md",
-    "meterials/Plaster of Paris.md",
-    "meterials/Mortar.md",
-    "pic/Xmax_2.png",
-    "pic/Xmax_1.png",
-    "pic/vituixcad_enclosure_types.png",
-    "pic/Pasted image 20231029031232.png",
-    "pic/Pasted image 20231029031109.png",
-    "Room Mode.md",
-    "Room Treatment.md",
-    "Sound Power.md",
-    "Speaker parts and Materials.md",
-    "Speaker Placement.md",
     "Spec.mde",
     "Sound Engineer/Sound localization.mde",
     "Sound Engineer/Ear Training 3.mde",
-    "Sound Engineer/Ear Training 2.mde",
-    "Sound Engineer/Ear Training 1.mde",
-    "Sound Engineer/Dolby On.mde",
-    "pic/Pasted image 20240112011958.png",
-    "pic/Pasted image 20240112002452.png",
-    "pic/Pasted image 20231126013245.png",
-    "pic/Pasted image 20231105222502.png",
-    "Sound Engineer/pic/Sound localization/08.png"
+    "Sound Engineer/Ear Training 2.mde"
   ]
 }
