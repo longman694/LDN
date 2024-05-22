@@ -34,7 +34,7 @@ jobs:
       # run: git clone --depth 1 -b gh-pages git@github.com:longman694/LDN.git public
       uses: actions/checkout@v4.1.5
       with:
-        repository: ${{ github.repository }}@gh-pages
+        ref: gh-pages
         path: public
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
