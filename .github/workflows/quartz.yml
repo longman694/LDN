@@ -55,5 +55,6 @@ jobs:
         cd public 
         git config --global user.name "github action"
         git config --global user.email "action@noreply.github.com"
-        git commit -am "deploy $(date +%Y%m%d-%H%M%S)" 
+        git add .
+        git commit -m "deploy $(date +%Y%m%d-%H%M%S)" 
         git push
