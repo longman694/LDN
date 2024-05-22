@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>LDT</title>
+      <link>https://tonehertz.thinknroll.com</link>
+      <description>Last 10 notes on LDT</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>README</title>
+    <link>https://tonehertz.thinknroll.com/README</link>
+    <guid>https://tonehertz.thinknroll.com/README</guid>
+    <description>LDN.</description>
+    <pubDate>Wed, 22 May 2024 05:24:11 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://tonehertz.thinknroll.com/</link>
+    <guid>https://tonehertz.thinknroll.com/</guid>
+    <description>Knowledge of loudspeaker design that I’ve collected.</description>
+    <pubDate>Wed, 22 May 2024 05:24:11 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
