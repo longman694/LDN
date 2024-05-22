@@ -1,0 +1,2 @@
+![[isobalic_parameters.png]]
+

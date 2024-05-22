@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2b73d2124602f7f0",
+        "id": "97ae3903e24cedb0",
         "type": "tabs",
         "children": [
           {
-            "id": "932302129d188bb6",
+            "id": "99d9e3d8b49b97f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "932302129d188bb6",
+  "active": "99d9e3d8b49b97f1",
   "lastOpenFiles": [
-    "README.md",
-    "index.md"
+    "VOL36_DEC08_Boundaries-1.pdf",
+    "index.md",
+    "Transient Detection with Absolute Discrete Group Delay.pdf",
+    "Standard/ISO_226_2023.pdf",
+    "Standard/ISO_226_2003.pdf",
+    "Standard/TIS1538-2552.pdf",
+    "Standard/มอก..md",
+    "Standard/มาตรฐานการวัดลำโพง.md",
+    "Dayton/TCP115-4.md",
+    "Dayton/Selection.md",
+    "Crossover/Inductor.md",
+    "Crossover/Type of Crossover.md",
+    "Crossover/DIY Inductor results.md",
+    "Crossover/Capacitor.md",
+    "Amplifiers/ZK-APTX1.md",
+    "Amplifiers/EP3 สะอาด ไม่สะอาด.md",
+    "Amplifiers/EP2 filter ไม่ filter.md",
+    "Amplifiers/EP1 ของแท้ ไม่แท้.md",
+    "Measurement/Free Field Measurement.md",
+    "Measurement/EP3 อุปกรณ์อะไรสำคัญที่สุดสำหรับนักออกแบบลำโพง.md",
+    "Measurement/EP2 อุปกรณ์อะไรสำคัญที่สุดสำหรับนักออกแบบลำโพง.md",
+    "Measurement/EP1 อุปกรณ์อะไรสำคัญที่สุดสำหรับนักออกแบบลำโพง.md",
+    "meterials/Rockwool.md",
+    "meterials/Plaster of Paris.md",
+    "meterials/Mortar.md",
+    "pic/Xmax_2.png",
+    "pic/Xmax_1.png",
+    "pic/vituixcad_enclosure_types.png",
+    "pic/Pasted image 20231029031232.png",
+    "pic/Pasted image 20231029031109.png",
+    "Room Mode.md",
+    "Room Treatment.md",
+    "Sound Power.md",
+    "Speaker parts and Materials.md",
+    "Speaker Placement.md",
+    "Spec.mde",
+    "Sound Engineer/Sound localization.mde",
+    "Sound Engineer/Ear Training 3.mde",
+    "Sound Engineer/Ear Training 2.mde",
+    "Sound Engineer/Ear Training 1.mde",
+    "Sound Engineer/Dolby On.mde",
+    "pic/Pasted image 20240112011958.png",
+    "pic/Pasted image 20240112002452.png",
+    "pic/Pasted image 20231126013245.png",
+    "pic/Pasted image 20231105222502.png",
+    "Sound Engineer/pic/Sound localization/08.png"
   ]
 }

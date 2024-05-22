@@ -1,0 +1,94 @@
+ผลการวัด Wuzhi Audio ZK-APTX1
+ใช่ Adapter 24V บ้าน ๆ (และบ้านมากไปหน่อย เดี๋ยวจะเห็นในผลการวัด)
+
+วัดเฉพาะ channel L-R
+ใช้ output ประมาณ 1Vrms
+load 8 ohm
+
+1. ผลการวัดสามารถ download ได้ที่
+https://drive.google.com/file/d/1_Fgx_K4sUFgdMDzlSNH52pVPOjwyMK-_/view?usp=drive_link
+
+หมายเหตุเล็กน้อย
+- ใช้กำลังค่อนข้างต่ำ power < 1W
+- ตอนวัดไม่ได้ทำการ calibrate Voltage
+
+
+![[Amplifiers/pic/ZK-APTX1/01.png]]
+
+2. วัด tone volume
+หมุนทั้ง Treble และ Bass
+สีน้ำเงินหมุนลงสุด
+สีเขียวหมุนอยู่ตรงกลาง
+สีแดงหมุนสูงสุด
+
+![[Amplifiers/pic/ZK-APTX1/02.png]]
+
+3. neutral tone
+
+บิด bass สูงสุด และ treble ตรงกลาง
+
+![[Amplifiers/pic/ZK-APTX1/03.png]]
+
+4. วัด Noise Floor
+
+คือสัญญาณเงียบ ๆ ที่ยังไม่ได้เล่นอะไร
+จะเห็นว่ามี 50Hz และ harmonic ขึ้นมาสูงมาก ๆ 
+ซึ่งก็เกิดจาก adapter ที่เสียบไฟบ้านอยู่ 50Hz นี่ก็มาจากไฟบ้านนี่แหละ
+อีกอย่างหนึ่งคือตัวแอมป์เองก็ไม่ได้มีการป้องกัยตัวนี้ไว้ด้วย
+ซึ่งก็ไม่แปลกด้วยราคาและการออกแบบมาเพื่อใช้ลำโพง Bluetooth ที่ใช้แบตเตอรีเป็นหลักอยู่แล้ว
+noise 50Hz นี่ก็จะหายไป
+
+![[Amplifiers/pic/ZK-APTX1/04.png]]
+
+5. ทดสอบ single tone 1k Hz
+
+เป็นการยิง sine wave ความถี่เดียว คือ 1000 Hz
+
+![[Amplifiers/pic/ZK-APTX1/05.png]]
+
+6. ผลทดสอบ single tone 1k
+ มี harmonic ของ 1k เล็กน้อย ถ้าไม่สน 50Hz THD+N น่าจะต่ำกว่า 0.02% ตามสเป็คอยู่
+
+![[Amplifiers/pic/ZK-APTX1/06.png]]
+
+7. ทดสอบ SMPTE
+เป็นการทดสอบดู  intermodulation distortion (IMD) หรือการทดสอบดูความเพี้ยนเมื่อมีสัญญาณตั้งแต่ 2 สัญญาณขึ้นไป 
+SMPTE จะใช้สัญญาณความถี่ต่ำและความถี่สูง พร้อม ๆ กัน
+ 
+![[Amplifiers/pic/ZK-APTX1/07.png]]
+
+8. ผลทดสอบ SMPTE
+
+![[Amplifiers/pic/ZK-APTX1/08.png]]
+
+9. ทดสอบ DIN
+คล้าย ๆ SMPTE แต่เปลี่ยนเป็นคู่ 250 Hz และ 8k Hz
+
+![[Amplifiers/pic/ZK-APTX1/09.png]]
+
+10. ผลทดสอบ DIN
+
+![[Amplifiers/pic/ZK-APTX1/10.png]]
+
+11. ทดสอบ CCIF
+เป็นการทดสอบสัญญาณที่อยู่ใกล้ ๆ กัน
+แอมป์ที่มีปัญหาจะมี distortion ที่ความถี่ส่วนต่างระหว่างสองสัญญาณ
+
+อย่างตัวนี้ 19k Hz และ 20k Hz ถ้าแอมป์มีปัญหาจะเห็นแท่ง 1k Hz ขึ้นมา
+
+![[Amplifiers/pic/ZK-APTX1/11.png]]
+
+12. ผลทดสอบ CCIF
+จะมีแท่ง 1k Hz ขึ้นมาเล็กน้อย แจ่ด้วย noise floor ที่สูงจึงเห็นไม่ชัดนัก
+
+![[Amplifiers/pic/ZK-APTX1/12.png]]
+
+13. ทดสอบ Multitone
+
+ทดสอบยิงสัญญาณ 16 ความถี่พร้อม ๆ กัน
+
+![[Amplifiers/pic/ZK-APTX1/13.png]]
+
+14. ผลทดสอบ Multitone
+
+![[Amplifiers/pic/ZK-APTX1/14.png]]

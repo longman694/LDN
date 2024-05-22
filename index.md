@@ -1,1 +1,4 @@
-Knowledge of loudspeaker design that I've collected.
+---
+title: Home
+---
+Knowledge of loudspeaker design I've collected.
