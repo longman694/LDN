@@ -6,6 +6,7 @@ name: Quartz build
 on:
   push:
     branches: [ "main" ]
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -20,22 +21,26 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
+    - name: Setup SSH key
+      uses: webfactory/ssh-agent@v0.9.0
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
     - name: Checkout Customized Quartz
       uses: actions/checkout@v4.1.5
       with:
         repository: longman694/LDT-quartz
         ref: LDT
     - name: Checkout content
-      # run: git clone --depth 1 git@github.com:longman694/LDN.git content
-      uses: actions/checkout@v4.1.5
-      with:
-        path: content
+      run: git clone --depth 1 git@github.com:longman694/LDN.git content
+      # uses: actions/checkout@v4.1.5
+      # with:
+      #   path: content
     - name: Checkout public
-      # run: git clone --depth 1 -b gh-pages git@github.com:longman694/LDN.git public
-      uses: actions/checkout@v4.1.5
-      with:
-        ref: gh-pages
-        path: public
+      run: git clone --depth 1 -b gh-pages git@github.com:longman694/LDN.git public
+      # uses: actions/checkout@v4.1.5
+      # with:
+      #   ref: gh-pages
+      #   path: public
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
@@ -46,4 +51,9 @@ jobs:
     - name: Build
       run: npm exec quartz build
     - name: Push public
-      run: cd public && git commit -am "deploy $(date +%Y%m%d-%H%M%S)" && git push
+      run: |
+        cd public 
+        git config --global user.name "${name}"
+        git config --global user.email "${name}@users.noreply.github.com"
+        git commit -am "deploy $(date +%Y%m%d-%H%M%S)" 
+        git push
