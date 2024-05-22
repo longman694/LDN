@@ -1,0 +1,110 @@
+
+มีผลการวัด tweeters มาฝาก
+
+
+1. วันนี้มีดอก tweeter อยู่ 4 ตัว
+
+1. AIYIMA 2 นิ้ว 6 โอม 30W
+2. AIYIMA 3 นิ้ว 6 โอม 15W
+3. AIYIMA 1.5 นิ้ว 4 โอม 80W
+4. Dayton ND25FN-4
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/01.png]]
+
+2. สภาพห้องอัดวันนี้
+
+เนื่องจาก วันนี้ไม่ได้จัดห้อง จะเห็นว่า impulse response ไม่ค่อยนิ่งเท่าไหร่ first reflection เข้ามาประมาณ 3 ms แต่เนื่องจากวันนี้วัด tweeter เลยขอปรับ IR windows ไว้ที่ -1ms ถึง 2 ms
+
+สัญญาณที่ใช้วัด 1 V rms
+noise floor ~30 db
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/02.png]]
+
+
+3. AIYIMA 2 นิ้ว 6 โอม 30W
+หน้าร้าน https://shopee.co.th/AIYIMA-2Pcs-2-Inch-6-Ohm-30W-Audio-Portable-Speakers-ABS-Altavoz-Portatil-Aluminum-Radiator-Hifi-Home-Theater-Tweeter-Speaker-i.266262896.4246453616
+
+หน้ากากผมใช้ ขนาดเท่าเดิม จาก 
+https://www.facebook.com/groups/791461357947350/permalink/1886245418468933/
+
+แต่รอบนี้ไม่ได้เอาดอกไว้ตรงกลางแล้ว เว้นระยะแต่ละด้านมีระยะห่างจากดอกถึงขอบไม่เท่ากันเพื่อลด diffraction
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/03.png]]
+
+
+4. แบบยังไม่ใส่ขอบโค้ง
+
+Fs ประมาณ 1.75k Hz
+แนะนำ crossover สูงกว่า 2k Hz
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/04.png]]
+
+5. ใส่ขอบโค้ง 
+![[Speaker/Measurement/tweeter/pic/tweeter 2/05.png]]
+
+6. ใส่ขอบโค้ง แล้วเว้นให้หน้าลึกลงไป 15 มม.
+
+(หลุม -7 db ที่ความถี่ 4k นิดๆ นี่โหดร้ายมาก)
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/06.png]]
+
+
+7. AIYIMA 3 นิ้ว 6 โอม 15W
+หน้าร้าน https://shopee.co.th/Aiyima-ลําโพงทวีตเตอร์-ผ้าไหม-4-6-8-โอห์ม-15W-3-นิ้ว-พร้อมแผง-2-ชิ้น-i.266262896.19979116094
+
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/07.png]]
+
+8. ไม่ใส่ขอบโค้ง
+
+Fs ประมาณ 2.3k Hz
+แนะนำ crossover สูงกว่า 2.5k Hz
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/08.png]]
+
+9. ใส่ขอบโค้ง 
+![[Speaker/Measurement/tweeter/pic/tweeter 2/09.png]]
+
+10. AIYIMA 1.5 นิ้ว 4 โอม 80W
+
+หน้าร้าน https://shopee.co.th/Aiyima-ลําโพงเสียง-1.5-นิ้ว-4-โอห์ม-80W-25-แกน-ไฟเบอร์เมมเบรน-2-ชิ้น-i.266262896.22965632574
+
+ตัวกล่อง? กระบอก? จรวด? เสื้อ? (หรือจะเรียกว่าอะไรดี แนะนำผมหน่อย) ผมออกแบบเอง จะนำไปใช้กับลำโพงตัวต่อไป
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/10.png]]
+
+11. กล่องสำเร็จรูป
+
+https://th.aliexpress.com/item/32840880810.html
+
+หรือลองขอที่ร้านใน shopee https://shopee.co.th/aiyima.my.th 
+ให้เขาเพิ่มในร้านให้หน่อยก็คงได้เหมือนกัน
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/11.png]]
+
+12. ผลวัด
+
+FR ชันขึ้นสม่ำเสมอ Off-Axis น่าจะดี
+Fs ประมาณ 1.35k Hz
+แนะนำ crossover สูงกว่า 1.8k Hz
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/12.png]]
+
+
+13. Dayton ND25FN-4
+หน้าร้าน
+https://www.samdee-audio.com/product/544/dayton-audio-nd25fn-4-1-silk-dome-neodymium-tweeter-element-4-ohm
+Datasheet
+https://daytonaudio.com/images/resources/275-053--dayton-audio-ND25FN-4-specifications.pdf
+
+หมายเหตุ ไม่น่าใช้กับเสื้อในรูป 11 ได้
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/13.png]]
+
+14. ผลการวัด
+
+FR เรียบดีมาก +-2 db จากค่าเฉลี่ยเท่านั้น
+Fs ประมาณ 1.3k Hz
+แนะนำ crossover สูงกว่า 1.7k Hz
+
+![[Speaker/Measurement/tweeter/pic/tweeter 2/14.png]]
