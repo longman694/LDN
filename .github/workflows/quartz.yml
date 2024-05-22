@@ -22,21 +22,22 @@ jobs:
       uses: webfactory/ssh-agent@v0.9.0
       with:
         ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
     - name: Checkout Customized Quartz
       uses: actions/checkout@v4.1.5
       with:
         repository: longman694/LDT-quartz
         ref: LDT
-    - name: Install dependencies
-      run: npm ci
     - name: Replace page title
       run: |
         sed -ie 's/pageTitle: "LDT"/pageTitle: "LDN"/' quartz.config.ts
+        
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - name: Install dependencies
+      run: npm ci
         
     - name: Checkout content
       run: git clone --depth 1 git@github.com:longman694/LDN.git content
