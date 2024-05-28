@@ -13,15 +13,39 @@ Circuits are reduced to acoustical side. Models for currently supported enclosur
 - 6th order bandpass type A
 
 Voltage source, Uad, is so called "constant pressure generator". Resistance models acoustic resistance, capacitor models compliance (volumes) and inductor models mass. There are several ways to determine component values. One, which is used in WinISD pro, is where we start on driver Vas to determine Ccas:  
-  
-Ccas = Vas/(roo·c²)  
+
+$$
+Ccas = \frac{Vas}{roo \cdot c^2}
+$$
+```python
+Ccas = Vas/roo/c**2
+```
+
   
 Then, we'll use fs to determine Lmas:  
-  
+
+$$
+Lmas = \frac{1}{(2\pi fs)^2 \cdot Ccas}
+$$
+```python
+Lmas = 1/(2*pi*fs)**2/Ccas
+```
 Lmas = 1/((2·pi·fs)²·Ccas)  
   
 Then, Qes and Qms is used to determine Rae and Ram:  
-  
+
+$$
+\begin {align}
+Rae &= \frac{1}{2\pi fs \cdot Qes \cdot Ccas} \\
+Ram &= \frac{1}{2\pi fs \cdot Qms \cdot Ccas}
+\end {align}
+$$
+
+```python
+Rae = 1/2/pi/fs/Qes/Ccas
+Ram = 1/2/pi/fs/Qms/Ccas
+```
+
 Rae = 1/(2·pi·fs·Qes·Ccas)  
 Ram = 1/(2·pi·fs·Qms·Ccas)  
   
