@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People.md",
+                "file": "review/T.Audio 4MHYKevlar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3acdbacb99e27f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "review/T.Audio 4.0MH CCAW.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People.md",
+                "file": "review/T.Audio 4MHYKevlar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People.md",
+                "file": "review/T.Audio 4MHYKevlar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People.md"
+                "file": "review/T.Audio 4MHYKevlar.md"
               }
             }
           }
@@ -148,25 +160,27 @@
   },
   "active": "95a80a05d7f7fc94",
   "lastOpenFiles": [
-    "picture.jpg",
     "review/T.Audio COL4.0-8.md",
+    "review/pic/T.Audio 4MHYKevlar/04.jpg",
     "review/T.Audio 4MHYKevlar.md",
     "review/T.Audio 4.0MH CCAW.md",
-    "review/pic/T.Audio 4.0MH CCAW/01.jpg",
-    "review/pic/T.Audio 4.0MH CCAW/03.png",
-    "review/pic/T.Audio 4.0MH CCAW/02.png",
-    "review/pic/T.Audio 4MHYKevlar/01.jpg",
+    "review/pic/T.Audio 4MHYKevlar/05.jpg",
+    "review/pic/T.Audio 4MHYKevlar/14.jpg",
+    "review/pic/T.Audio 4MHYKevlar/13.png",
+    "review/pic/T.Audio 4MHYKevlar/12.png",
+    "review/pic/T.Audio 4MHYKevlar/11.png",
+    "review/pic/T.Audio 4MHYKevlar/09.jpg",
+    "review/pic/T.Audio 4MHYKevlar/08.png",
+    "review/pic/T.Audio 4MHYKevlar/07.png",
+    "review/pic/T.Audio 4MHYKevlar/06.png",
+    "review/Measurement Method.md",
+    "Amplifiers/Amplifier chips.md",
+    "Amplifiers/Amp Power.md",
+    "People.md",
     "review/pic/T.Audio 4.0MH CCAW",
-    "review/pic/T.Audio 4MHYKevlar/04.png",
-    "review/pic/T.Audio 4MHYKevlar/03.png",
-    "review/pic/T.Audio 4MHYKevlar/02.jpg",
     "WinISD.md",
     "review/pic/T.Audio 4MHYKevlar",
     "Enclosure Types/Sealed or Closed Enclosure.md",
-    "Amplifiers/Amplifier chips.md",
-    "review/Measurement Method.md",
-    "review/pic/T.Audio COL4.0/02_03.png",
-    "review/pic/T.Audio COL4.0/02_08.png",
     "VOL36_DEC08_Boundaries-1.pdf",
     "README.md",
     "Standard/TIS1538-2552.pdf",
@@ -184,13 +198,11 @@
     "Cable.md",
     "Group Delay - Transients.md",
     "index.md",
-    "People.md",
     "Objective Evaluation of Speaker.md",
     "Transient Detection with Absolute Discrete Group Delay.pdf",
     "Standard/ISO_226_2023.pdf",
     "Standard/ISO_226_2003.pdf",
     "Standard/มาตรฐานการวัดลำโพง.md",
-    "Dayton/TCP115-4.md",
     "Spec.mde",
     "Sound Engineer/Sound localization.mde"
   ]
