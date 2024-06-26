@@ -29,7 +29,11 @@ from Audio Judgement
 - 200 Hz – 1000 Hz – less than 4 ms.
 - Under 200 Hz – Expect higher numbers. Even 30-40 ms for the very low frequencies.
 
-From testing (or experance)
+0.6ms 
+3ms at 500Hz
+5ms at 250Hz
+
+From testing (or experience)
 - Speaker with 30ms @ 50Hz and 10ms @ 60Hz is some what on the threshold of acceptable.
 
 

@@ -1,3 +1,7 @@
+# Wiring guide
+
+[RANE Commercial - Knowledge Base](https://www.ranecommercial.com/kb_article.php?article=2107)
+
 # Connectors
 ## XLR
 

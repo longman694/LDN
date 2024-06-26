@@ -17,6 +17,19 @@ Also, the introduction of a resistive element into what designers may assume is 
 
 ref. https://www.avnet.com/wps/portal/abacus/resources/article/understanding-esr-in-electrolytic-capacitors/
 
+
+# Capacitor Type
+
+"M" = metallized construction  
+"F" = film/foil construction (brands of other manufacturers are missing this letter)  
+  
+The second letter "K" stands for plastic film capacitors.  
+  
+The third letter indicates the dielectric film used:  
+"S" = Polyester / PET (other manufacturers are using "T")  
+"M" = Mixed Dielectric  
+"P" = Polypropylene / PP
+
 # Clarity Cap
 Super hi-end
 http://www.claritycap.co.uk/products/pur.php
@@ -26,7 +39,7 @@ https://www.samdee-audio.com/category/60/capacitor-for-crossover-network/dayton-
 # Solen
 https://www.samdee-audio.com/category/59/capacitor-for-crossover-network/solen-capacitor
 
-# Solen (counterfeit)
+# Solen (counterfeit?)
 https://shopee.co.th/เน็ตเวิร์ค-คาปาซิเตอร์เกรดออดิโอ-สีดำ-400V-i.44695276.5819055380
 
 # MDL 

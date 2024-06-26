@@ -9,7 +9,7 @@ Impedance: 4Ω/ 8Ω
 Rated power: 20W/30w
 Package include: 2pcs speaker
 
-![[Making Speakers/pic/01-05.png]]
+![[Making Speakers/pic/WinISD/01-05.png]]
 
 
 ## ตัวอย่างพอดูได้
@@ -29,8 +29,8 @@ Screw diagonal distance: 83 mm
 Voice coil diameter: 25 mm
 Qts :0.43
 
-![[Making Speakers/pic/01-06.png]]
-![[Making Speakers/pic/01-07.png]]
+![[Making Speakers/pic/WinISD/01-06.png]]
+![[Making Speakers/pic/WinISD/01-07.png]]
 
 # ตัวอย่างพอดูได้ แต่ต้องระวัง
 https://www.aliexpress.com/item/1005002028341057.html
@@ -100,7 +100,7 @@ Speed of sound 346.7 m/s
 
 ตัวอย่างที่เป็นมาตรฐาน
 
-![[Making Speakers/pic/01-08.png]]
+![[Making Speakers/pic/WinISD/01-08.png]]
 
 
 

@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1253fd0de9a59348",
+        "id": "7c45845fddec4b7a",
         "type": "tabs",
         "children": [
           {
-            "id": "95a80a05d7f7fc94",
+            "id": "b60f4f07f96212f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "review/T.Audio 4MHYKevlar.md",
+                "file": "Results/MK6-2.0.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3acdbacb99e27f1",
+            "id": "001ebb81977ff365",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "review/T.Audio 4.0MH CCAW.md",
-                "mode": "source",
-                "source": false
+                "file": "Results/pic/mk6/mk6_crossover.png"
               }
             }
           }
@@ -60,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amp",
+                "query": "Spatial Decay",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "review/T.Audio 4MHYKevlar.md",
+                "file": "Results/MK6-2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "review/T.Audio 4MHYKevlar.md",
+                "file": "Results/MK6-2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "review/T.Audio 4MHYKevlar.md"
+                "file": "Results/MK6-2.0.md"
               }
             }
           }
@@ -158,52 +157,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95a80a05d7f7fc94",
+  "active": "b60f4f07f96212f6",
   "lastOpenFiles": [
-    "review/T.Audio COL4.0-8.md",
-    "review/pic/T.Audio 4MHYKevlar/04.jpg",
-    "review/T.Audio 4MHYKevlar.md",
-    "review/T.Audio 4.0MH CCAW.md",
-    "review/pic/T.Audio 4MHYKevlar/05.jpg",
-    "review/pic/T.Audio 4MHYKevlar/14.jpg",
-    "review/pic/T.Audio 4MHYKevlar/13.png",
-    "review/pic/T.Audio 4MHYKevlar/12.png",
-    "review/pic/T.Audio 4MHYKevlar/11.png",
-    "review/pic/T.Audio 4MHYKevlar/09.jpg",
-    "review/pic/T.Audio 4MHYKevlar/08.png",
-    "review/pic/T.Audio 4MHYKevlar/07.png",
-    "review/pic/T.Audio 4MHYKevlar/06.png",
-    "review/Measurement Method.md",
-    "Amplifiers/Amplifier chips.md",
-    "Amplifiers/Amp Power.md",
-    "People.md",
-    "review/pic/T.Audio 4.0MH CCAW",
-    "WinISD.md",
-    "review/pic/T.Audio 4MHYKevlar",
-    "Enclosure Types/Sealed or Closed Enclosure.md",
-    "VOL36_DEC08_Boundaries-1.pdf",
-    "README.md",
-    "Standard/TIS1538-2552.pdf",
-    "review/pic/method",
-    "Sound Engineer/Bass EQ Ep 2.md",
-    "Sound Engineer/Bass EQ Ep 1.md",
-    "Standard/มอก..md",
-    "meterials/Mortar.md",
-    "meterials/Plaster of Paris.md",
-    "meterials/Rockwool.md",
-    "Noise & THD.md",
+    "Results/MK3-2.0-2 Ways 2L.md",
+    "Results/MK6-2.0.md",
+    "Results/pic/mk6/distortion_80db.png",
+    "Results/pic/mk6/mk6_crossover.png",
+    "Results/pic/mk6/mk6_crossover_2.jpg",
+    "Results/pic/mk6/distortion_after_fixed.png",
+    "Results/pic/mk6/02-01.jpg",
+    "Results/pic/mk6/Untitled",
     "How loud you listen.md",
-    "Cables & Connectors.md",
+    "Crossover/Capacitor.md",
+    "Thiele-Small Parameters.md",
+    "VOL36_DEC08_Boundaries-1.pdf",
+    "Making Speakers/VituixCAD 2 Tutorial.md",
+    "Making Speakers/pic/VituixCAD/01.png",
+    "Making Speakers/pic/VituixCAD/04.png",
+    "VituixCAD.md",
+    "Making Speakers/pic/VituixCAD",
+    "Making Speakers/pic/VituixCAD/15.png",
+    "Making Speakers/pic/VituixCAD/14.png",
+    "Making Speakers/pic/VituixCAD/13.png",
+    "Enclosure Types/Vented or Ported Enclosure.md",
+    "Enclosure Types/Transmission Line.md",
     "AES Anthologies.md",
     "Cable.md",
+    "Cables & Connectors.md",
     "Group Delay - Transients.md",
     "index.md",
-    "Objective Evaluation of Speaker.md",
-    "Transient Detection with Absolute Discrete Group Delay.pdf",
-    "Standard/ISO_226_2023.pdf",
-    "Standard/ISO_226_2003.pdf",
-    "Standard/มาตรฐานการวัดลำโพง.md",
-    "Spec.mde",
-    "Sound Engineer/Sound localization.mde"
+    "Making Speakers/Power line filter.md",
+    "Making Speakers/WinISD Tutorial 3.md",
+    "Making Speakers/WinISD Tutorial 1.md",
+    "Making Speakers/WinISD Tutorial 2.md",
+    "Making Speakers/pic/WinISD",
+    "WinISD.md",
+    "Enclosure Types/Sealed or Closed Enclosure.md",
+    "Enclosure Types/Passive Radiator Enclosure.md",
+    "Enclosure Types/Infinite Baffle.md",
+    "Enclosure Types/Horn Loudspeaker.md",
+    "Enclosure Types/Enclosure Dimension Ratio.md",
+    "Enclosure Types/Enclosure.md",
+    "Enclosure Types/Bandpass Enclosure.md",
+    "Results/pic/older",
+    "Results/pic/mk6",
+    "Speaker Circuit/pic",
+    "Speaker Circuit",
+    "review/pic/T.Audio 4.0MH CCAW",
+    "review/pic/T.Audio 4MHYKevlar"
   ]
 }

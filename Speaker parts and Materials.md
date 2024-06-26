@@ -50,7 +50,7 @@ Cast Aluminum - higher end
 # Surround
 Rubber
 polyether foam
-
+cloth
 
 
 # Tinsel wire

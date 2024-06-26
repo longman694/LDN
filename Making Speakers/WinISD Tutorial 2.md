@@ -18,7 +18,7 @@ https://www.facebook.com/groups/791461357947350/permalink/1892504631176345/
 หลังจากลงโปรแกรมแล้วก็จะมี Icon ดังรูปอยู่ใน Start menu
 เรากดไปที่ Icon WinISD เพิ่อเปิดโปรแกรมเลย
 
-![[Making Speakers/pic/02-01.png]]
+![[Making Speakers/pic/WinISD/02-01.png]]
 
 2. เพิ่มลำโพงในฐานข้อมูล
 
@@ -26,14 +26,14 @@ https://www.facebook.com/groups/791461357947350/permalink/1892504631176345/
 
 เมื่อเปิดโปรแกรมแล้ว กดไปที่รูปลำโพงที่แถบเมนูได้เลยครับ
 
-![[Making Speakers/pic/02-02.png]]
+![[Making Speakers/pic/WinISD/02-02.png]]
 
 
 3. Sundown Audio U-6.5SW 2 ohm 400W
 
 ลำโพงไนวันนี้ทั้งกราฟ impedance และ ts-parameter ผมเจอในโพสของสมาชิคท่านหนึ่ง
 
-![[Making Speakers/pic/02-03.png]]
+![[Making Speakers/pic/WinISD/02-03.png]]
 
 
 4. ตรวจสอบค่า T/S-parameters 
@@ -46,7 +46,7 @@ https://sundownaudio.com/products/u-series-v2-6-5-u-65sw-1750w-subwoofer
 
 ด้านขวาเป็นค่าที่ผมหามา ลองเทียบกับด้านซ้ายที่ขยายขึ้นมาดูก็จะเห็นว่าไม่ตรงกันหลายตัว
 
-![[Making Speakers/pic/02-04.png]]
+![[Making Speakers/pic/WinISD/02-04.png]]
 5. ตั้งชื่อและคำอธิบาย
 ต่อจากรูปที่ 2 เมื่อกดปุ่มรูปลำโพง (Driver Database) แล้ว ก็จะมีป๊อบอัพขึ้นมาให้ใส่ข้อมูลลำโพง
 ผลิตที่ไหน ยี่ห้ออะไร รุ่นอะไร เราก็ใส่เข้าไปตามที่เรามี
@@ -54,7 +54,7 @@ https://sundownaudio.com/products/u-series-v2-6-5-u-65sw-1750w-subwoofer
 
 ใส่เสร็จแล้วกดที่แท็ป Parameters ด้านบนเลยครับ
 
-![[Making Speakers/pic/02-05.png]]
+![[Making Speakers/pic/WinISD/02-05.png]]
 
 
 6. ใส่ T/S parameters
@@ -80,7 +80,7 @@ Pe = 400W
 ก็ใส่ไปด้วยที่ 2 บรรทัดสุดท้าย
 เมื่อใส่เสร็จแล้วกด save ได้เลย
 
-![[Making Speakers/pic/02-06.png]]
+![[Making Speakers/pic/WinISD/02-06.png]]
 
 7. ตั้งชื่อไฟล์แล้วกด Save 
 
