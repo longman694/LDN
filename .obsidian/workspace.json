@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b60f4f07f96212f6",
+            "id": "b6f75de9f747665b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Results/MK6-2.0.md",
+                "file": "Making Speakers/All about Port.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "001ebb81977ff365",
+            "id": "7ba0f5a4fae8d807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VituixCAD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a4ccd7862f63611",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Results/pic/mk6/mk6_crossover.png"
+                "file": "pic/vituixcad_enclosure_types.png"
               }
             }
           }
@@ -58,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Spatial Decay",
+                "query": "vituix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Results/MK6-2.0.md",
+                "file": "Making Speakers/All about Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Results/MK6-2.0.md",
+                "file": "Making Speakers/All about Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Results/MK6-2.0.md"
+                "file": "Making Speakers/All about Port.md"
               }
             }
           }
@@ -157,53 +168,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b60f4f07f96212f6",
+  "active": "b6f75de9f747665b",
   "lastOpenFiles": [
-    "Results/MK3-2.0-2 Ways 2L.md",
-    "Results/MK6-2.0.md",
-    "Results/pic/mk6/distortion_80db.png",
-    "Results/pic/mk6/mk6_crossover.png",
-    "Results/pic/mk6/mk6_crossover_2.jpg",
-    "Results/pic/mk6/distortion_after_fixed.png",
-    "Results/pic/mk6/02-01.jpg",
-    "Results/pic/mk6/Untitled",
-    "How loud you listen.md",
-    "Crossover/Capacitor.md",
-    "Thiele-Small Parameters.md",
-    "VOL36_DEC08_Boundaries-1.pdf",
-    "Making Speakers/VituixCAD 2 Tutorial.md",
-    "Making Speakers/pic/VituixCAD/01.png",
-    "Making Speakers/pic/VituixCAD/04.png",
+    "Pasted image 20240811233151.png",
+    "Making Speakers/All about Port.md",
+    "Pasted image 20240812001139.png",
+    "pic/vituixcad_enclosure_types.png",
     "VituixCAD.md",
-    "Making Speakers/pic/VituixCAD",
-    "Making Speakers/pic/VituixCAD/15.png",
-    "Making Speakers/pic/VituixCAD/14.png",
-    "Making Speakers/pic/VituixCAD/13.png",
+    "Picture1.png",
+    "Pasted image 20240811234256.png",
+    "Pasted image 20240811233129.png",
+    "Pasted image 20240811232420.png",
     "Enclosure Types/Vented or Ported Enclosure.md",
-    "Enclosure Types/Transmission Line.md",
-    "AES Anthologies.md",
-    "Cable.md",
+    "Making Speakers/pic/port/04_01.png",
+    "Making Speakers/pic/port/04_07.png",
+    "Making Speakers/pic/port/04_13.png",
+    "Making Speakers/Port Damping.md",
+    "Speaker Circuit/Speaker equivalent circuit.md",
+    "Enclosure Types/Passive Radiator Enclosure.md",
+    "Enclosure Types/Sealed or Closed Enclosure.md",
+    "Room Treatment.md",
+    "Sound Power.md",
+    "Speaker parts and Materials.md",
+    "Speaker Placement.md",
+    "WinISD.md",
+    "Making Speakers/pic/port",
+    "Making Speakers/Portable Power Supply.md",
+    "Results/MK2-2.0.md",
+    "Standard/TIS1538-2552.pdf",
+    "VOL36_DEC08_Boundaries-1.pdf",
+    "Measurement/tweeter/Baffle.md",
+    "Thiele-Small Parameters.md",
     "Cables & Connectors.md",
     "Group Delay - Transients.md",
-    "index.md",
+    "How loud you listen.md",
+    "AES Anthologies.md",
+    "Cable.md",
+    "Making Speakers/Some facts about ports.md",
+    "Making Speakers/Horn Design.md",
     "Making Speakers/Power line filter.md",
-    "Making Speakers/WinISD Tutorial 3.md",
-    "Making Speakers/WinISD Tutorial 1.md",
-    "Making Speakers/WinISD Tutorial 2.md",
+    "meterials/Rockwool.md",
+    "Results/pic/mk6/Untitled",
+    "Making Speakers/pic/VituixCAD",
     "Making Speakers/pic/WinISD",
-    "WinISD.md",
-    "Enclosure Types/Sealed or Closed Enclosure.md",
-    "Enclosure Types/Passive Radiator Enclosure.md",
-    "Enclosure Types/Infinite Baffle.md",
-    "Enclosure Types/Horn Loudspeaker.md",
-    "Enclosure Types/Enclosure Dimension Ratio.md",
-    "Enclosure Types/Enclosure.md",
-    "Enclosure Types/Bandpass Enclosure.md",
     "Results/pic/older",
     "Results/pic/mk6",
     "Speaker Circuit/pic",
-    "Speaker Circuit",
-    "review/pic/T.Audio 4.0MH CCAW",
-    "review/pic/T.Audio 4MHYKevlar"
+    "Speaker Circuit"
   ]
 }

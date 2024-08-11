@@ -22,3 +22,15 @@
 - DD HardRock® Multi-Fix - High Density
 - RXX eg. R24 COMFORTBATT
 - Safe 'n' Silent
+
+
+# What to by
+
+from
+https://www.jochenschulz.me/en/blog/rockwool-glasswool-hemp-best-absorber-materia
+
+
+
+This would be the best [ROCKWOOL Safe 'n' Silent Pro 350 (60kg/m3) - furringline.com](https://furringline.com/products/rockwool-acoustic-insulation-safe-n-silent-pro-350/)
+
+

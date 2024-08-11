@@ -121,6 +121,8 @@ $k$ - correction
 $V_b$ - Box Volume in litters
 $L_v$ - port length in cm
 
+$$f_b = \frac{c}{2\pi}\sqrt{\frac{\pi\cdot (\frac{D_v}{2})^2 N_p}{V_b(L_v + kD_v)}}$$
+
 $$f_b = \sqrt{\frac{2.35625\times10^4 \cdot D_v^2 N_p}{V_b(L_v + kD_v)}}$$
 
 $$L_v = \frac{10c^2}{16\pi} \cdot \frac{D_v^2N_p}{V_bf_b^2} - kD_v$$

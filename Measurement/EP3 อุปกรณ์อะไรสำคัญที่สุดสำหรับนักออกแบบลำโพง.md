@@ -147,7 +147,7 @@ https://www.roomeqwizard.com/help/help_en-GB/html/impedancemeasurement.html
 
 สุดท้ายจะเหลือ R (calibrate) 1k ohm อีกตัวนึง ซึ่งตัวนี้จะใช้ตอน calibrate ในโปรแกรม
 
-![[03_10.png]]
+![[Measurement/pic/EP3/03_10.png]]
 
 11. สรุปราคา
 
@@ -163,4 +163,4 @@ Audio interface + ไมค์ RTA + สาย XLR + สายทำเอง
 Audio interface + ไมค์ RTA + สาย XLR + DATS V3
 5650 + 5050 + 250 + 9190 = 20,140 บาท
 
-![[03_11.png]]
+![[Measurement/pic/EP3/03_11.png]]

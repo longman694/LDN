@@ -5,6 +5,6 @@ Look at the peak at 500Hz that 5dB higher than port frequency!
 
 Port frequency can be confirmed by 1st port resonance in WinISD
 
-![[Pasted image 20240109105331.png]]
+
 
 

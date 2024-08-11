@@ -27,6 +27,9 @@ Neutrik copy
 ### Neutrik ⭐⭐⭐
 - NP3-XB
 
+### Rean 
+
+
 ### MITSUMI ⭐
 - TS only
 - magnetic
