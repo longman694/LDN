@@ -27,7 +27,7 @@ Disclaimer
 2. ขนาดรูใส่ลำโพง
 ซึ่งก็จะเป็นขนาดเดียวกับตัว Full range ใช้แทนกันได้เลย
 
-![[02.jpg]]
+![[review/pic/Dayton SIG120-4/02.jpg]]
 
 3. T/S Parameters ของดอก 4 Ohm
 
