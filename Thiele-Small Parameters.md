@@ -209,9 +209,9 @@ $$
 \eta=(\frac{4\pi^2 \cdot f^3_s V_{as}}{c^3 \cdot Q_{es}}) \times 100\%
 $$
 
-** $\rho/2\pi = 5.365×10^{−4} \;m^2·s/kg$ 
-** $4\pi^2 / c^3 = 9.523×10^−7\;s^3/m^3$
-** @ 25 °C and 50% humidity
+- $\rho/2\pi = 5.365×10^{−4} \;m^2·s/kg$ 
+- $4\pi^2 / c^3 = 9.523×10^−7\;s^3/m^3$
+- @ 25 °C and 50% humidity
 
 
 *ref.* [Efficiency and sensitivity conversion - sengpielaudio Sengpiel Berlin](http://www.sengpielaudio.com/calculator-efficiency.htm)

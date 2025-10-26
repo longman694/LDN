@@ -276,7 +276,7 @@ G เราสามารถใช้ไฟล์เพลงของเรา
 
 หรือเพิ่มจำนวนแบรนด์ที่ถูก EQ โดยเลือก Number of bands
 
-![[02_15.png]]
+![[Sound Engineer/pic/EP2/02_15.png]]
 
 16. ใช้ไฟล์เพลง
 
@@ -289,7 +289,7 @@ G เราสามารถใช้ไฟล์เพลงของเรา
 https://drive.google.com/file/d/1GJN6FyjhrZYtdCY5n3OJNe_5NF5Be-h7/view?usp=sharing
 
 
-![[02_16.png]]
+![[Sound Engineer/pic/EP2/02_16.png]]
 
 17. สรุป
 เป็นอย่างไรกันบ้างครับกับการฝึกฟังเสียง ขอแค่ใช้เวลาฝึกซักวันละ 5 - 10 นาที ผมรับประกันเลยว่าหูคุณจะดีขึ้น 100% 
@@ -300,5 +300,5 @@ https://drive.google.com/file/d/1GJN6FyjhrZYtdCY5n3OJNe_5NF5Be-h7/view?usp=shari
 
 ในตอนต่อไปผมจะมาบอกวิธีที่จะหาเครื่องเสียงมาตรฐาน ในราคาย่อมเยาให้ฟังกัน
 
-![[02_17.png]]
+![[Sound Engineer/pic/EP2/02_17.png]]
 

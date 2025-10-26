@@ -4,89 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f90c565cba2ce3da",
+        "id": "17da526914577276",
         "type": "tabs",
         "children": [
           {
-            "id": "92319bf629da743e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Room Treatment/pic/8-Absorption Coefficient.png"
-              },
-              "icon": "lucide-image",
-              "title": "8-Absorption Coefficient"
-            }
-          },
-          {
-            "id": "518b270a4612fd4c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Room Treatment/pic/8-Absorption Coefficient.png"
-              },
-              "icon": "lucide-image",
-              "title": "8-Absorption Coefficient"
-            }
-          },
-          {
-            "id": "d2ecaa54224203ea",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Room Treatment/pic/3-Assembly.png"
-              },
-              "icon": "lucide-image",
-              "title": "3-Assembly"
-            }
-          },
-          {
-            "id": "62cdefbc1b992403",
+            "id": "a8d6a74803d8ca4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Room Treatment/Room Treatment.md",
+                "file": "ETC/Type of music listeners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room Treatment"
-            }
-          },
-          {
-            "id": "db3b37b3ed8812f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waveguide/Waveguide compare.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Waveguide compare"
-            }
-          },
-          {
-            "id": "c4adc07100319fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waveguide/Directivity of speakers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Directivity of speakers"
+              "title": "Type of music listeners"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "port",
+                "query": "sinad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -228,52 +164,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4adc07100319fc2",
+  "active": "a8d6a74803d8ca4a",
   "lastOpenFiles": [
-    "Waveguide/Waveguide compare 3.md",
-    "Waveguide/Directivity of speakers.md",
-    "Waveguide/pic/sound through slit.png",
-    "Waveguide/Waveguide compare.md",
-    "Waveguide/pic/compare/07.png",
-    "Waveguide/pic/compare/06.png",
-    "Waveguide/pic/compare/04.png",
-    "Waveguide/Waveguide.md",
-    "Enclosure Types/Vented or Ported Enclosure.md",
-    "WinISD.md",
-    "Untitled.md",
-    "Making Speakers/All about Port.md",
-    "Making Speakers/Power line filter.md",
-    "Making Speakers/Portable Power Supply.md",
-    "Making Speakers/Port Damping.md",
-    "Making Speakers/Improvement.md",
-    "Making Speakers/Horn Design.md",
-    "Waveguide/Waveguide compare 2.md",
-    "Thiele-Small Parameters.md",
-    "AES Anthologies.md",
-    "Cable.md",
-    "Cables & Connectors.md",
-    "GD.png",
-    "Group Delay - Transients.md",
-    "How loud you listen.md",
-    "index.md",
+    "Results/MK8-2.0 TWS.md",
+    "Results/pic/mk8/Waterfall.png",
+    "Results/pic/mk8/Distortion.png",
+    "Results/pic/mk8",
+    "Results/pic/mk8/FR.png",
+    "Results/pic/mk8/IMG_20250409_221339.jpg",
+    "Results/pic/mk8/IMG_20250406_141329.jpg",
+    "Results/pic/mk8/IMG_20241214_163258.jpg",
+    "Results/Mk9 1 v 2 log.md",
+    "Results/MK7-2.0 final.md",
+    "Results/MK7-2.0 alpha.md",
+    "Results/MK6-2.0.md",
+    "Results/MK5-2.1.md",
+    "Results/MK4-2.0.md",
+    "Results/MK3-2.0-2 Ways 2L.md",
+    "Results/MK2-2.0.md",
+    "Results/MK1-2.1.md",
+    "TransmissionLine/Voigt Pipe.md",
+    "TransmissionLine/TL vs Horn.md",
+    "TransmissionLine/Internal Damping.md",
+    "meterials/Mortar.md",
+    "Results/Pasted image 20251019222329.png",
+    "Results/pic/mk9-log/mk9-log-01.png",
+    "Results/pic/mk9-log/mk9-log-07.png",
+    "Results/pic/mk9-log",
+    "Results/pic/mk9-log/mk9-log-08.png",
+    "Measurement/Measurement for VituixCAD.md",
+    "Sound Power.md",
     "Noise & THD.md",
-    "Objective Evaluation of Speaker.md",
-    "Off-axis Frequency Response.md",
-    "People.md",
-    "Waveguide/pic/compare3/01.png",
-    "Waveguide/pic/compare3",
-    "Waveguide/pic/compare3/09.png",
-    "Waveguide/Pasted image 20250604232116.png",
-    "Waveguide/pic/compare3/08.png",
-    "Waveguide/pic/compare3/07.png",
-    "Waveguide/pic/compare2",
-    "MediaPlayer",
-    "Waveguide/pic/compare",
-    "Waveguide/pic",
-    "Waveguide",
-    "Room Treatment/pic/Untitled",
-    "Room Treatment/pic",
-    "Room Treatment/final_1.jfif",
-    "Room Treatment"
+    "Standard/TIS1538-2552.pdf",
+    "Standard/ISO_226_2003.pdf",
+    "Xmax.md",
+    "Thiele-Small Parameters.md",
+    "Enclosure Types/Sealed or Closed Enclosure.md",
+    "Enclosure Types/Enclosure.md",
+    "Test Songs/My list international version.md",
+    "TransmissionLine",
+    "ETC/Type of music listeners.md",
+    "Crossover/Capacitor.md",
+    "Test Songs/By Audio Absolute.md",
+    "Test Songs",
+    "Standard/ISO_226_2023.pdf",
+    "VOL36_DEC08_Boundaries-1.pdf",
+    "Measurement/pic/troubleshoot",
+    "Measurement/pic/Measurement"
   ]
 }

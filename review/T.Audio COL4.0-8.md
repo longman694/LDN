@@ -14,7 +14,7 @@ power: 80 W (ไม่ระบุว่า Peak หรือ RMS)
 ดอกด้านซ้าย งานไม่ค่อยเรียบร้อย มีกาวสีแดงที่ใช้กับ dust cap เปื้อนออกมา
 ส่วนดอกขวาตอน burn in ลำโพง ได้ยินเสียง noise ออกมานิด ๆ
 
-![[01_01.jpg]]
+![[review/pic/T.Audio COL4.0/01_01.jpg]]
 
 2. Driver hole dimension
 
